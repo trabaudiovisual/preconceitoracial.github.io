@@ -1,7 +1,94 @@
 <html>
 <head>
 <title>Preconceito Racial</title>
-<link rel="stylesheet" href="estilo.css">
+<style>
+body {
+background-image: url("https://scontent.fvix2-2.fna.fbcdn.net/v/t34.0-12/18253849_1279105772169965_2008961947_n.jpg?oh=264e1f3f36175a6802f1c463be37af3b&oe=59063DC6")
+}
+
+h1 {
+color:white;
+background-color: black;
+padding: 1em;
+}
+
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    background-color: #363636;
+}
+
+.dropbtn {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #363636}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #1C1C1C;
+}
+
+#cf2 {
+  position:relative;
+  height:281px;
+  width:450px;
+  margin:0 auto;
+}
+#cf2 img {
+  position:absolute;
+  left:0;
+  -webkit-transition: opacity 1s ease-in-out;
+  -moz-transition: opacity 1s ease-in-out;
+  -o-transition: opacity 1s ease-in-out;
+  transition: opacity 1s ease-in-out;
+}
+
+#cf2 img.transparent {
+opacity:0;
+}
+#cf_onclick {
+cursor:pointer;
+}
+
+</style>
 </head>
 
 
@@ -27,6 +114,12 @@
     <a href="mais.html"> Galeria </a>
     <a href="ajuda.html" > Ajuda </a>
     </center>
+    
+    <div id="cf2" class="shadow">
+  <img class="bottom" src="http://agenciabrasil.ebc.com.br/sites/_agenciabrasil2013/files/styles/interna_grande/public/fotos/988158-aaa__dsc3165-010.jpg?itok=gMK7yVtJ" width="500" height="500"/>
+  <img class="top" src="http://m.memorialdademocracia.com.br/publico/thumb/8978/740/440" width="500" height="500"/>
+</div>
+<p id="cf_onclick">Click me to toggle</p>
 
 
 
