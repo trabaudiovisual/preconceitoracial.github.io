@@ -24,9 +24,11 @@ a:link, a:visited {
     text-decoration: none;
     display: inline-block;
 }
+ 
 a:hover, a:active {
     background-color: #363636;
 }
+ 
 .dropbtn {
     background-color: black;
     color: white;
@@ -35,10 +37,12 @@ a:hover, a:active {
     border: none;
     cursor: pointer;
 }
+ 
 .dropdown {
     position: relative;
     display: inline-block;
 }
+ 
 .dropdown-content {
     display: none;
     position: absolute;
@@ -47,19 +51,23 @@ a:hover, a:active {
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
 }
+ 
 .dropdown-content a {
     color: white;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
 }
+ 
 .dropdown-content a:hover {background-color: #363636}
 .dropdown:hover .dropdown-content {
     display: block;
 }
+ 
 .dropdown:hover .dropbtn {
     background-color: #1C1C1C;
 }
+ 
 #cf {
   position:absolute;
   height:281px;
@@ -67,6 +75,7 @@ a:hover, a:active {
   margin:0 auto;
   padding: 2em;
 }
+ 
 #cf img {
   position:absolute;
   left:0;
@@ -75,9 +84,26 @@ a:hover, a:active {
   -o-transition: opacity 1s ease-in-out;
   transition: opacity 1s ease-in-out;
 }
+ 
 #cf img.top:hover {
   opacity:0;
 }
+ 
+ div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 1.0;
+  filter: alpha(opacity=60); /* For IE8 and earlier */
+  float: right;
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: black;
+}
+ 
 </style>
 </head>
  
@@ -107,6 +133,16 @@ a:hover, a:active {
     <div id="cf">
   <img class="bottom" src="http://vilneres.files.wordpress.com/2013/06/dsf0152.jpg" width="500" height="500" />
   <img class="top" src="https://vilneres.files.wordpress.com/2013/06/rio-18.jpg" width="500" height="500"/>
+</div>
+ 
+ <div class="background">
+  <div class="transbox">
+    <p>O preconceito racial é o que mais se abrange em todo o mundo, pois as pessoas julgam as demais por causa de sua cor, ou melhor, raça.
+
+Antigamente, era comum ver-se negros africanos acompanhados de belas louras nórdicas ou de outras partes da Europa. Não existia o menor preconceito entre esses casais nem em relação a eles. Para os brasileiros, porém, era algo inédito e escandaloso; faziam-se piadas insinuando que o sucesso dos negros se devia ao fato de que eram muito bem dotados anatomicamente para o sexo. Uma visão preconceituosa típica, que procurava desqualificar o negro e que escondia, às vezes, uma boa dose de inveja.
+
+Os negros e asiáticos que iam estudar na Europa, no entanto, possuíam uma cultura igual ou superior a de qualquer estudante branco, uma vez que haviam freqüentado boas escolas em seus países, indo finalmente aprimorar seus estudos na Europa ou nos Estados Unidos. Não havia nenhuma desigualdade que dificultasse uma estreita convivência entre eles.</p>
+  </div>
 </div>
 
 
