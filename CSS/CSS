@@ -1,1 +1,80 @@
-f
+body {
+background-image: url("https://scontent.fvix2-2.fna.fbcdn.net/v/t34.0-12/18253849_1279105772169965_2008961947_n.jpg?oh=264e1f3f36175a6802f1c463be37af3b&oe=59063DC6")
+}
+h1 {
+color:white;
+background-color: black;
+padding: 1em;
+}
+ img {
+      float: left;
+      text-align:center;
+    }
+    
+a:link, a:visited {
+    background-color: black;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+ 
+a:hover, a:active {
+    background-color: #363636;
+}
+ 
+.dropbtn {
+    background-color: black;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+ 
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+ 
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+ 
+.dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+ 
+.dropdown-content a:hover {background-color: #363636}
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+ 
+.dropdown:hover .dropbtn {
+    background-color: #1C1C1C;
+}
+ 
+ 
+ div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 1.0;
+  filter: alpha(opacity=60); 
+  position: absolute;
+  
+}
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: black;
+}
