@@ -12,6 +12,10 @@ padding: 1em;
       text-align:center;
       padding: 1em;
     }
+img.a{
+      float: right;
+      height:10px;
+}
     
 a:link, a:visited {
     background-color: black;
