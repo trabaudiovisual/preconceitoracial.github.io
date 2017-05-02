@@ -79,9 +79,16 @@ a:hover, a:active {
   padding: 1em;
   position: relative;
   text-align: justify;
-  
- 
-  
+}
+
+div.bb{
+ margin: 10px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 1.0;
+  filter: alpha(opacity=60); 
+  padding: 1em;
+  position: relative;
 }
 
 div.transbox p {
