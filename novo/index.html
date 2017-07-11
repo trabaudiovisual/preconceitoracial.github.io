@@ -26,6 +26,12 @@
    .jumbotron {
       background-color: white;
       }
+    
+    .img-carousel {
+       overflow: hidden;
+        width: 700px;
+        height: 400px;
+    }
   
   </style>
  
@@ -84,7 +90,7 @@
   <center>
  <div class="container-fixed bg-1">
  
-  <div id="myCarousel" class="carousel slide" data-ride="carousel style="width: 200px; height:200px; margin: 0 auto">
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -95,16 +101,22 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
       <div class="item active">
+        <div class="img-carousel">
         <img src="https://cdn.kristeligt-dagblad.dk/sites/default/files/styles/share_image/public/2010/08/265474.jpg" alt="Martin Luther King" style="width:80%;">
+      </div>
       </div>
  
       <div class="item">
+        <div class="img-carousel">
         <img src="https://vilneres.files.wordpress.com/2013/06/rio-18.jpg" alt="África - cultura afro-brasileira" style="width:80%;">
+      </div>
       </div>
     
       <div class="item">
+        <div class="img-carousel"
         <img src="http://racismoambiental.net.br/wp-content/uploads/2016/03/racismo-750x410.jpg" alt="Mulheres negras" style="width:80%;">
       </div>
+    </div>
     </div>
  
     <!-- Left and right controls -->
