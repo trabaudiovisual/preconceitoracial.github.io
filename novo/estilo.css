@@ -1,0 +1,39 @@
+<style>
+  .bg-1 { 
+      background-color: #DCDCDC; 
+      color: black;
+  }
+  
+  .bg-2 {
+      background color: #8B8989;
+      color: black;
+      }
+      
+  .bg-5 {
+     background-color: white;
+     color: black;
+     }
+     
+   .jumbotron {
+      background-color: white;
+      }
+    
+    .img-carousel {
+      position: relative;
+       overflow: hidden;
+        min-width: 100%;
+        min-height: 10%;
+    }
+    
+    .carousel-inner {
+        width: 100%;
+    }
+    
+    #myCarousel {
+      overflow: hidden;
+       position:relative;
+        min-width: 100%;
+        min-height: 10%;
+    }
+  
+  </style>
