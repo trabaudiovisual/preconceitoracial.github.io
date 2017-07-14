@@ -1,1 +1,78 @@
+<html lang="port">
+<head>
+  <title>Racial Prejudice</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+  <link rel="stylesheet" href="estilo.css">
+ 
+</head>
+<body>  
+<nav class="navbar navbar-inverse">
+<div class="container-fluid">
+<div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="index.html">Racial Prejudice</a>
+      </div>
+      <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav">
+      <li class="dropdown" ><a href="index.html">Home</a></li>
+      <li class="dropdown">
+      <a class="dropdown-toggle" data-toggle="dropdown" href="#">Racial ... <span class="caret"></span></a>
+      <ul class="dropdown-menu">
+            <li><a href="ambienteescolar.html">School environment</a></li>
+            <li><a href="cabelocrespo.html">Curly hair</a></li>
+            <li><a href="entrenegros.html">Among Blacks themselves</a></li>
+            <li><a href="mulheres.html">Black women</a></li>
+            <li><a href="cotasraciais.html">Racial quotas</a></li>
+          </ul>
+          </li>
+          <li><a href="video.html">Video</a></li>
+        <li><a href="historico.html">Historic</a></li>
+        <li><a href="galeria.html">Gallery</a></li>
+        <li><a href="ajuda.html">Help</a></li>
+        <li><a href="home.html"><span class="glyphicon glyphicon-globe"> English</span></a></li>
+      
+ <li><a href="index.html"><span class="glyphicon glyphicon-globe"> Português - BR</span></a></li>
+ </ul>
+      
+</div>
+</div>
+</nav>
 
+  <div class="container-fluid text center bg-1">
+  <div class="jumbotron">
+  <center><h1>Racial Prejudice</h1></center>  
+  </div>
+ 
+  <center><img src="http://3.bp.blogspot.com/-EPfIXVGR12s/VG5J_jBQFoI/AAAAAAABbqY/Cr543kIsHWw/s1600/1%2Ba%2B1%2Ba%2Ba%2Ba%2Ba%2Bcot%2Blindo%2Bdesenho.png" class="img-responsive" width="500" height="500"><center> <br>
+ 
+ 
+  <p><h4><b>Black Woman:</b></h4></p>
+  <p>OBS: "Racism is an ideological phenomenon that manifests itself in different ways and that advocates the hierarchy of groups, attributing to some of them negative social values and meanings that serve as justification for their unequal treatment. Specifically, our societies were structured from the definition of social places for women and the black population that do not pass through the spaces of power and full citizenship. "
+Ana Carolina Querino, Coordinator of Economic Rights of UN Women Brazil and Southern Cone.
+   
+  <p>The Brazilian Institute of Geography and Statistics shows that inequalities among the Brazilian population refer to questions of race and gender and thus identify a social hierarchy that places white men on top, followed by white women, black men and black women, who suffer Double discrimination: race and gender. The black woman remains at the base of this pyramid.
+
+  <p>In many countries, black women appear as the majority of victims in various indicators of human rights violations - and in Brazil it is no different. Data from the Center for Assistance to Women - Call 180 for the year 2013 indicate that 59.4% of records of domestic violence service refer to black women. The Women's Dossier 2015, from the Public Security Institute of Rio de Janeiro, points out that 56.8% of the victims of rapes registered in the state in 2014 were black. And 62.2% of the homicides of women victimized black (19.3%) and brown (42.9%).
+NOTE: Among the murdered women, more than 60% are black or brown.
+The rate of homicide of black women is double the rate of white women, this in the national average, because there are states where the racial inequality is greater. </p> 
+ <p>Sources: <br>
+ (http://www.m.vermelho.org.br/noticia/48654-1) <br>
+ (http://www.agenciapatriciagalvao.org.br/dossie/violencias/violencia-e-racismo/) </p>
+ 
+
+       
+</div>
+ 
+ 
+ 
+</body>
+</html>
