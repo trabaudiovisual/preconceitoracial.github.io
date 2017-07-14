@@ -1,1 +1,65 @@
+  <html lang="port">
+  <head>
+  <title>Racial Prejudice</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  
+  <link rel="stylesheet" href="estilo.css">
+ 
+  </head>
+  <body>  
+  <nav class="navbar navbar-inverse">
+    <div class="container-fluid">
+    <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+    </button>
+    <a class="navbar-brand" href="index.html">Racial Prejudice</a>
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+    <ul class="nav navbar-nav">
+        <li class="dropdown" ><a href="index.html">Home</a></li>
+        <li class="dropdown">
+        <a class="dropdown-toggle" data-toggle="dropdown" href="#">Prejudice in...<span class="caret"></span></a>
+        <ul class="dropdown-menu">
+        <li><a href="ambienteescolar.html">School environment</a></li>
+        <li><a href="cabelocrespo.html">Curly hair</a></li>
+        <li><a href="entrenegros.html">Among Blacks themselves</a></li>
+        <li><a href="mulheres.html">Black women</a></li>
+        <li><a href="cotasraciais.html">racial quotas</a></li>
+        </ul>
+        </li>
+        <li><a href="video.html">Video</a></li>
+        <li><a href="historico.html">Historic</a></li>
+        <li><a href="galeria.html">Gallery</a></li>
+        <li><a href="ajuda.html">Help</a></li>
+        <li><a href="home.html"><span class="glyphicon glyphicon-globe"> English</span></a></li>
+      
+     <li><a href="index.html"><span class="glyphicon glyphicon-globe"> Português - BR</span></a></li>
+     </ul>
+      
+  </div>
+  </div>
+  </nav>
 
+  <div class="container-fluid text center bg-1">
+  <div class="jumbotron">
+  <center><h1>Racial Prejudice</h1></center>  
+  </div>
+  <p><h4><b>Students from the Ufes denounced a professor of economics for saying racist and prejudiced statements during a class. Students from the Federal University of Espirito Santo (Ufes) denounced an economics professor for having said racist and prejudiced statements during a class.</b></h4></p>
+  <p> According to a publication made by the Ufes Social Sciences Free Academic Center in a social network, the teacher would have said that he "would hate to be seen by a black doctor or lawyer," for example. Posters were scattered across campus with photos of the master writing: "Professor Racist." In a statement, the Ombudsman's Office informed that it received the complaint sent by the students and that it will be sent to have an investigation opened to analyze the case.</p>
+  <p>The teacher's biased statements were during an Economics class in the class of the Second Period of Social Sciences. One of the students raised a question about quotas at the university, which would have triggered the discussion. "He said the quota holders could not keep up with the class like the other students and that's why he had to use more accessible language and lower his level of class so that everyone could understand it," said a 19-year-old student.</p>
+  <p> The argument became even greater when, according to the students, the professor made racist statements. "He said blacks and the poor had no access to culture, making it clear that they did not reach the cultural level of whites. He then said: 'Student attendants decrease the quality of the university. I would hate to be seen by a doctor or black lawyer. In social networks, the students also repudiated the attitude of the master. An administrative complaint was drawn up by the group of students and sent to the Ufes Ombudsman's Office.</p>
+  <center><img src="http://varelanoticias.com.br/wp-content/uploads/2014/07/bullying.jpg" class="img-responsive"></center>
+  <p><h4><b>Student in Espirito Santo reports bias in school when wearing high heels after theater.</b></h4></p>
+  <p>After interpreting a transsexual in a theater play in the school in Cariacica, in the Great Victory, a student of 16 years decided, at the end of the presentation, to make a test with the high-heeled shoes that used and said in Facebook that was victim of prejudice . As he passed the school corridors wearing his shoes, the young man said that he had received a number of positive reactions, such as applause and words of support, but according to the student, the majority expressed themselves in a prejudiced way. "I was hurt because I was called a 'little birdie', 'bitchy', and that kind of thing, it's just a jump.Why could not a man use it?" The young man protested. , Teachers, pedagogues and even colleagues can use, why can not I? " </p>
+  <p>He has been studying for three months at school and says that at the institution he attended earlier in the Sierra, he had the same attitude and never suffered prejudice. "I always get support there. I do not know if this new school was a shock, but they looked at me with disrespect," he says. In a publication on social networks, which eventually reverberated, the student still questioned the performance of school professionals, who, according to him, reproved the use of the jump and addressed it in a biased manner. The young man was surprised by the repercussion of his protest. "I never wanted fame or speak ill of anyone, I was just fighting for my rights. What I want is to be respected," he says. Source: (g1.com.br/es)</p>
+       
+  </div>
+  </body>
+  </html>
